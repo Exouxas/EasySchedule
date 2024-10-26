@@ -1,7 +1,7 @@
 using EasySchedule;
 
 
-namespace ScheduleTester
+namespace ScheduleExample
 {
     public class Program
     {
