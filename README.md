@@ -15,3 +15,8 @@ public class ClassYouHaveMethodsIn
   }
 }
 ```
+
+## Planned features
+- RunOnce property for the attribute
+- Logging
+- Optional retry configuration
